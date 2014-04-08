@@ -4,7 +4,6 @@ var previousHash;
 $(function(){
 
 	$("#home").hide();
-	$("#about").hide();
 	$("#contact").hide();
 
 	if (location.hash == "") {

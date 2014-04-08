@@ -2,7 +2,8 @@ var previousHash = "";
 
 $(function(){
 
-	$("#home").hide();
+	$("#games").hide();
+	$("#websites").hide();
 	$("#contact").hide();
 
 	$("#left").width(0);
@@ -11,8 +12,8 @@ $(function(){
 	$("#page").animate({width: "67%"}, 600);
 
 	if (location.hash == "") {
-		location.hash = "#home";
-		previousHash = "#home";
+		location.hash = "#games";
+		previousHash = "#games";
 		//console.log("ifffff");
 	} else {
 		//console.log("else");

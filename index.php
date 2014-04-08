@@ -16,14 +16,16 @@
 			<div style="float: right;">
 				<div id="header">AdenFlorian</div>
 				<nav>
-					<p><a href="#home">Portfolio</a></p>
+					<p><a href="#games">Games</a></p>
+					<p><a href="#websites">Websites</a></p>
 					<p><a href="#contact">Contact</a></p>
 				</nav>
 			</div>
 		</div>
 		<div id="page">
 			<?php
-			require 'home.php';
+			require 'games.php';
+			require 'websites.php';
 			require 'contact.php';
 			?>
 		</div>

@@ -1,4 +1,4 @@
-<div id="home">
+<div id="games">
 
 	<h1>RoboEscape</h2>
 	<p>Hold space bar to use jetpack to avoid obstacles. Click speaker icon to turn music off.</p>

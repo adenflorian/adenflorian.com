@@ -1,7 +1,7 @@
 <div id="home">
 
 	<h1>RoboEscape</h2>
-	<p>Hold space bar to use jetpack to avoid obstacles. Click speaker icon to turn music off</p>
+	<p>Hold space bar to use jetpack to avoid obstacles. Click speaker icon to turn music off.</p>
 	<a href="https://dl.dropboxusercontent.com/u/160588973/unityprojects/endlessrunnera/builds/Current/Current.html" target="_blank">
 		<img src="img/roboescape.png" width="720"/>
 	</a>

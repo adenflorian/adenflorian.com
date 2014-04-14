@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>AdenFlorian's Blog</title>
+		<title>AdenFlorian | Portfolio</title>
 		<link rel="icon" type="image/png" href="img/favicon_panda.png">
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,900,500,300' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
@@ -12,8 +12,8 @@
 		<script src="js/adenflorian.js"></script>
 	</head>
 	<body>
-		<div id="left">
-			<div style="float: right;">
+		<div id="left-outer">
+			<div id="left-inner" class="vertcenter">
 				<div id="header">AdenFlorian</div>
 				<nav>
 					<p><a href="#games">Games</a></p>
@@ -22,12 +22,14 @@
 				</nav>
 			</div>
 		</div>
-		<div id="page">
-			<?php
-			require 'games.php';
-			require 'websites.php';
-			require 'contact.php';
-			?>
+		<div id="right-outer">
+			<div id="right-inner" class="vertcenter">
+				<?php
+				require 'games.php';
+				require 'websites.php';
+				require 'contact.php';
+				?>
+			</div>
 		</div>
 	</body>
 </html>

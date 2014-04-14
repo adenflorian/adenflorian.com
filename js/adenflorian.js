@@ -19,6 +19,8 @@ $(function(){
 		previousHash = hash;
 	}
 
+	setVerticals();
+
 	$(window).hashchange(function(){
 		var hash = location.hash;
 		show(hash);

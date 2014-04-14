@@ -13,30 +13,27 @@ $(function(){
 */
 	if (location.hash == "") {
 		location.hash = "#games";
-		previousHash = "#games";
 	} else {
 		var hash = location.hash;
 		show(hash);
 		previousHash = hash;
 	}
 
-	setVerticals();
+	$(window).hashchange(function(){
+		var hash = location.hash;
+		show(hash);
+		previousHash = hash;
+	})
+
+	$( window ).resize(function() {
+		setVerticals();
+	});
+
+	$(window).unload(function() {
+		previousHash = "";
+	})
 
 });
-
-$(window).hashchange(function(){
-	var hash = location.hash;
-	show(hash);
-	previousHash = hash;
-})
-
-$( window ).resize(function() {
-	setVerticals();
-});
-
-$(window).unload(function() {
-	previousHash = "";
-})
 
 function setVerticals()
 {
@@ -61,5 +58,6 @@ function show(page)
 		});
 	} else {
 		$(page).fadeIn('fast');
+		setVerticals();
 	}
 }

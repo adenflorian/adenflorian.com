@@ -12,9 +12,9 @@ Author: David "AdenFlorian" Valachovic
 		<a href="mailto:David.E.Valachovic@gmail.com" target="_blank">
 			<i class="fa fa-envelope fa-3x"></i>
 		</a>
-		<a href="https://twitter.com/AdenFlorian" target="_blank">
+		<!--<a href="https://twitter.com/AdenFlorian" target="_blank">
 			<i class="fa fa-twitter fa-3x"></i>
-		</a>
+		</a>-->
 		<a href="https://github.com/AdenFlorian" target="_blank">
 			<i class="fa fa-github fa-3x"></i>
 		</a>

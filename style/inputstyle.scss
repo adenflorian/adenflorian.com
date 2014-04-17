@@ -20,7 +20,7 @@ $nav-link-hover: #F2F2F2;
 $nav-link-active: #86CF5A;
 $font-default-color: #E8E8E8;
 $link-default-color: $font-default-color;
-$link-default-hover: $font-default-color;
+$link-default-hover: #86CF5A;
 
 
 // Eric Meyer's Reset CSS v2.0 - http://cssreset.com
@@ -64,8 +64,7 @@ nav {
     }
 
     &:hover {
-      color: $nav-link-hover;
-
+      color: $link-default-hover;
     }
 
     &:active {
@@ -91,7 +90,7 @@ a {
 
   &:hover {
     color: $link-default-hover;
-    text-shadow: 0 0 2 $link-default-hover;
+    //text-shadow: 0 0 2px $link-default-hover;
   }
 
   &:active {

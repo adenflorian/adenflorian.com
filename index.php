@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>AdenFlorian | Portfolio</title>
+		<title>David Valachovic | Portfolio</title>
 		<link rel="icon" type="image/png" href="img/favicon_panda.png">
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,900,500,300' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
@@ -14,7 +14,7 @@
 	<body>
 		<div id="left-outer">
 			<div id="left-inner" class="vertcenter">
-				<div id="header">AdenFlorian</div>
+				<div id="header">David Valachovic</div>
 				<nav>
 					<p><a href="#games">Games</a></p>
 					<p><a href="#websites">Websites</a></p>

@@ -1,7 +1,7 @@
 <div id="contact">
-	<p>My name is David Valachovic.</p>
+	<p>My name is David Valachovic, but I mostly go by AdenFlorian online.</p>
 	<p>I make games for all platforms with <a href="http://unity3d.com/" target="_blank">Unity</a> using C# scripts.</p>
-	<p>I make websites using HTML, CSS, JavaScript (jQuery), PHP, and MySQL.</p>
+	<p>I make websites using HTML, CSS, JavaScript (<a href="http://jquery.com/" target="_blank">jQuery</a>), PHP (<a href="http://cakephp.org/" target="_blank">CakePHP</a>), and MySQL.</p>
 	<p>I study computer science at the University of Phoenix.</p>
 	<p><a href="mailto:David.E.Valachovic@gmail.com" target="_blank">David.E.Valachovic@gmail.com</a></p>
 	<p><a href="https://twitter.com/AdenFlorian" target="_blank">@AdenFlorian</a></p>

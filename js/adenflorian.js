@@ -56,7 +56,7 @@ function show(page)
 	if (previousHash != "") {
 		$(previousHash).fadeOut('fast', function() {
 			$(page).fadeIn('fast');
-			repositionVerticals();
+			setVerticals();
 		});
 	} else {
 		$(page).fadeIn('fast');

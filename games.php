@@ -13,7 +13,7 @@ Author: David "AdenFlorian" Valachovic
 	<div class="vert-space-25"></div>
 
 	<h1>Robotronic</h1>
-	<p>WASD to move and arrow keys to shoot. Only 6 levels. Refresh page to start over.</p>
+	<p>Short and simple arena shooter game.</p>
 	<a href="https://dl.dropboxusercontent.com/u/160588973/unityprojects/robotronic/Current/Robotronic.html" target="_blank">
 		<img class="banner" src="img/robotronic.png" alt="Robotronic screenshot"/>
 	</a>

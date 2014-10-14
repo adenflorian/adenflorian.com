@@ -1,2 +1,28 @@
 /!ignore
-.sass-cache
+#Laravel
+/bootstrap/compiled.php
+/public/packages
+/vendor
+#.env.*.php
+.env.php
+
+# Composer
+composer.phar
+composer.lock
+
+# SASS & bourbon mixin
+.sass-cache/
+app/sass/bourbon/
+#public/css/app.css
+
+# phpstorm
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Vagrant
+/.vagrant
+
+# Other
+.DS_Store
+Thumbs.db
+

@@ -24,6 +24,9 @@ Author: David "AdenFlorian" Valachovic
 		<a href="https://bitbucket.org/AdenFlorian" target="_blank">
 			<i class="fa fa-bitbucket fa-3x"></i>
 		</a>
+		<a href="https://www.linkedin.com/pub/david-valachovic/66/274/758" target="_blank">
+			<i class="fa fa-linkedin fa-3x"></i>
+		</a>
 		<!--<a href="http://answers.unity3d.com/users/95640/adenflorian.html" target="_blank">
 			<i class="fa fa-bitbucket fa-3x"></i>
 		</a>-->

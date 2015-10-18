@@ -14,7 +14,7 @@ Author: David "AdenFlorian" Valachovic
 
 	<h1>Star Citizen Org Stats</h1>
 	<p>Tracks and displays historical info on Star Citizen Organizations.</p>
-	<a href="http://SCOrgStats.com/" target="_blank">
+	<a href="http://SCOrgStats.AdenFlorian.com/" target="_blank">
 		<img class="banner" src="img/scorgstats.png" alt="Star Citizen Org Stats screenshot"/>
 	</a>
 

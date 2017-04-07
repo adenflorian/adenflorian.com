@@ -8,9 +8,9 @@ Author: David "AdenFlorian" Valachovic
 		<meta charset="UTF-8">
 		<title>David Valachovic | Portfolio</title>
 		<link href="img/favicon_panda.png" rel="icon" type="image/png">
-		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,900,500,300' rel='stylesheet'>
-		<link href='http://fonts.googleapis.com/css?family=VT323' rel='stylesheet'>
-		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,900,500,300' rel='stylesheet'>
+		<link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet'>
+		<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 		<link href="style/style.css" rel="stylesheet">
 		<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js"></script>
 		<script src="js/jquery.ba-hashchange.min.js"></script>

@@ -12,7 +12,7 @@ Author: David "AdenFlorian" Valachovic
 		<link href='https://fonts.googleapis.com/css?family=VT323' rel='stylesheet'>
 		<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 		<link href="style/style.css" rel="stylesheet">
-		<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js"></script>
+		<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.0.min.js"></script>
 		<script src="js/jquery.ba-hashchange.min.js"></script>
 		<script src="js/adenflorian.js"></script>
 	</head>

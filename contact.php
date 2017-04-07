@@ -12,12 +12,6 @@ Author: David "AdenFlorian" Valachovic
 		<a href="mailto:David.E.Valachovic@gmail.com" target="_blank">
 			<i class="fa fa-envelope fa-3x"></i>
 		</a>
-		<!--<a href="/files/resume.pdf" target="_blank">
-			<i class="fa fa-file-text fa-3x"></i>
-		</a>-->
-		<!--<a href="https://twitter.com/AdenFlorian" target="_blank">
-			<i class="fa fa-twitter fa-3x"></i>
-		</a>-->
 		<a href="https://github.com/AdenFlorian" target="_blank">
 			<i class="fa fa-github fa-3x"></i>
 		</a>
@@ -27,9 +21,6 @@ Author: David "AdenFlorian" Valachovic
 		<a href="https://www.linkedin.com/pub/david-valachovic/66/274/758" target="_blank">
 			<i class="fa fa-linkedin fa-3x"></i>
 		</a>
-		<!--<a href="http://answers.unity3d.com/users/95640/adenflorian.html" target="_blank">
-			<i class="fa fa-bitbucket fa-3x"></i>
-		</a>-->
 	</p>
 
 </div>

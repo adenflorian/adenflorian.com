@@ -3,7 +3,6 @@ Author: David "AdenFlorian" Valachovic
 -->
 
 <div id="games" class="right-content">
-https://adenflorian.itch.io/star-llama
 
     <h1>Star Llama</h1>
     <p>One game a month entry I made with @XueTomYu in 2016.</p>

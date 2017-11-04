@@ -3,6 +3,15 @@ Author: David "AdenFlorian" Valachovic
 -->
 
 <div id="games" class="right-content">
+https://adenflorian.itch.io/star-llama
+
+    <h1>Star Llama</h1>
+    <p>One game a month entry I made with @XueTomYu in 2016.</p>
+    <a href="https://adenflorian.itch.io/star-llama" target="_blank">
+        <img class="banner" src="img/starllama.jpg" alt="Star Llama screenshot"/>
+    </a>
+
+    <div class="vert-space-25"></div>
 
     <h1>Tankular</h1>
     <p>WASD to drive, mouse to look, click to shoot.</p>

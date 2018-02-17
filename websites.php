@@ -1,7 +1,3 @@
-<!--
-Author: David "AdenFlorian" Valachovic
--->
-
 <div id="websites" class="right-content">
 
 	<h1>random.dog</h1>

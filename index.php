@@ -1,7 +1,3 @@
-<!--
-Author: David "AdenFlorian" Valachovic
--->
-
 <!DOCTYPE html>
 <html>
 	<head>

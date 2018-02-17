@@ -1,7 +1,3 @@
-<!--
-Author: David "AdenFlorian" Valachovic
--->
-
 <div id="games" class="right-content">
 
     <h1>Star Llama</h1>

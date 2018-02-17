@@ -14,4 +14,3 @@
 		</a>
 	</p>
 </div>
-git@AdenFlorian.com:adenflorian.com.git
